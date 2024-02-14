@@ -1,4 +1,5 @@
 # Fashion Search App
+
 Fashion Search App (Text to Image Search) using AI Model.
 
-#### You can search in your image base using query (Text to Image Search). 
+#### Team Members: Jaydutt Patel, Harsh Gharat, Fenil Patel for AI Project - AIDI - September 2024.

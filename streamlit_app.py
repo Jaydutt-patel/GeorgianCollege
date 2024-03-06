@@ -12,7 +12,7 @@ def set_background_and_styles():
         <style>
         /* Set the background image */
         .stApp {
-            background-image: url("https://your-background-image-url.jpg");
+            background-image: url("https://t3.ftcdn.net/jpg/02/10/85/26/360_F_210852662_KWN4O1tjxIQt8axc2r82afdSwRSLVy7g.jpg");
             background-size: cover;
         }
         
